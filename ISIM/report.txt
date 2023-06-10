@@ -1,0 +1,3 @@
+This version worked for NPN and N MOSFET.
+However, the circuit did not work for most plots for P channel devices, as the Emitter was always on ground.
+The next versions introduced an emitter node that could be in ground or 5V voltage to solve this.

@@ -1,0 +1,74 @@
+Title: ** ISIM circuit **
+Date: Sun Mar 12 22:50:31 2023
+Plotname: Operating Point
+Flags: real
+No. Variables: 32
+No. Points:            1
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice XVII
+Variables:
+	0	V(bres1k)	voltage
+	1	V(base)	voltage
+	2	V(bvin100)	voltage
+	3	V(collector)	voltage
+	4	V(vdac1)	voltage
+	5	V(bvin1k)	voltage
+	6	V(cvin10)	voltage
+	7	V(cvin100)	voltage
+	8	V(cvin1k)	voltage
+	9	V(bres100)	voltage
+	10	V(vdac0)	voltage
+	11	V(cres10)	voltage
+	12	V(cres100)	voltage
+	13	V(cres1k)	voltage
+	14	V(vdac0mult)	voltage
+	15	V(cres10div)	voltage
+	16	V(cres100div)	voltage
+	17	V(cres1kdiv)	voltage
+	18	V(collectordiv)	voltage
+	19	V(bres100div)	voltage
+	20	V(bres1kdiv)	voltage
+	21	V(basediv)	voltage
+	22	V(vdac1mult)	voltage
+	23	Ie(Qq2)	device_current
+	24	Ic(Qdut)	device_current
+	25	Ib(Qdut)	device_current
+	26	Ie(Qdut)	device_current
+	27	I(Rrc1k)	device_current
+	28	I(Rrc100)	device_current
+	29	I(Rrc10)	device_current
+	30	I(Rrb100)	device_current
+	31	I(Rrb1k)	device_current
+Values:
+0		3.946103090086709e+000
+	3.946750856244379e+000
+	5.000000000000000e+000
+	4.994570819671008e+000
+	1.221001200000000e+000
+	0.000000000000000e+000
+	5.000000000000000e+000
+	0.000000000000000e+000
+	0.000000000000000e+000
+	2.552238976784119e+000
+	4.993895000000000e+000
+	9.878826174466026e+000
+	4.994576734973544e+000
+	4.994629972705323e+000
+	9.987178822408112e+000
+	1.975738716647078e+000
+	9.989077514303242e-001
+	9.989183987723398e-001
+	9.989065683925209e-001
+	5.104495312039975e-001
+	7.892170388142300e-001
+	7.893465895692674e-001
+	2.441564248762802e+000
+	-4.890255295798125e-001
+	-4.744799866649089e-001
+	-1.394571674882812e-002
+	4.884263384199356e-001
+	5.915303431525132e-008
+	5.915302535797196e-008
+	4.884255354795018e-001
+	-1.394511879460261e-002
+	-6.477661576700378e-007
